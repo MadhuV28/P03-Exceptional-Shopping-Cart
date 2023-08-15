@@ -14,4 +14,4 @@ and cope with erroneous input without crashing.
 and get practice both throwing and catching exceptions of each kind.
 • Get more practice writing tests, specifically tests that detect whether exceptions are
 thrown under the prescribed circumstances or not.
-The source code can be found in the '' directory.
+The source code can be found in the 'P03 Exceptional Shopping Cart/src/' directory.
